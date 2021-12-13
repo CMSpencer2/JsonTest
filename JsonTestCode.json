@@ -8,7 +8,7 @@
       "CharacterName": "Necro Mantis",
       "Level": "34",
       "Class": "Earth Templar",
-      "Team": "Black"
+      "Team": "Green"
    },
     
     {
@@ -18,7 +18,7 @@
       "CharacterName": "Sir Malcomb",
       "Level": "65",
       "Class": "Fighter",
-      "Team": "Black"
+      "Team": "Green"
     },
     
     {
@@ -28,7 +28,7 @@
       "CharacterName": "Guran McHarty",
       "Level": "23",
       "Class": "Rogue",
-      "Team": "White"
+      "Team": "Orange"
     },
     
     {
@@ -38,7 +38,7 @@
       "CharacterName": "Aevor Raggnarson",
       "Level": "17",
       "Class": "Celestial Scholar",
-      "Team": "White"
+      "Team": "Orange"
     }
   ]
 }

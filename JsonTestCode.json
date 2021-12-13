@@ -1,0 +1,44 @@
+{
+  "UserInfo": 
+  [
+    {
+      "UserId": "0",
+      "FirstName": "Christopher",
+      "LastName": "Spencer",
+      "CharacterName": "Necro Mantis",
+      "Level": "34",
+      "Class": "Earth Templar",
+      "Team": "Black"
+   },
+    
+    {
+      "UserId": "1",
+      "FirstName": "Joseph",
+      "LastName": "Valenti",
+      "CharacterName": "Sir Malcomb",
+      "Level": "65",
+      "Class": "Fighter",
+      "Team": "Black"
+    },
+    
+    {
+      "UserId": "2",
+      "FirstName": "Killian",
+      "LastName": "Bierly",
+      "CharacterName": "Guran McHarty",
+      "Level": "23",
+      "Class": "Rogue",
+      "Team": "White"
+    },
+    
+    {
+      "UserId": "3",
+      "FirstName": "Claus",
+      "LastName": "Ingram",
+      "CharacterName": "Aevor Raggnarson",
+      "Level": "17",
+      "Class": "Celestial Scholar",
+      "Team": "White"
+    }
+  ]
+}
